@@ -4,7 +4,7 @@ In the project i created a small ToDoList with React.js
 ## Overview
 - Build from scratch!
 ### Screenshot
-![](screenshot/SCR-20240318-ugzw.jpeg)
+![](screenshot/SCR-20230908-44.png)
 
 ## Links
 ### If you want to see the final product:

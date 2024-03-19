@@ -8,7 +8,6 @@ In the project i created a small ToDoList with React.js
 
 ## Links
 ### If you want to see the final product:
-- [Live-Project 🔗] https://65f904d18e91115891d8f70d--statuesque-chebakia-b6f9c0.netlify.app/
 - [Live-Project 🔗] https://todolist-2024.netlify.app/
 
 ## My process
